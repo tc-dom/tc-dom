@@ -1,7 +1,12 @@
 ### Hi there 👋
 > #### What is this page ?
-> This line is part of the same quote.
+> This page for my little project such as design page with css bootstrap bulma or single css 
+> The most important is It's for me to learning abount fullstack fontend or backend
 Quote break.
+```python
+s = "Python syntax highlighting"
+print s
+```
 
 <p align='center'>
    <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=tc-dom.tc-dom"></a>
