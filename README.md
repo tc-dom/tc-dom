@@ -8,9 +8,10 @@ myGithub = "I want to learn"
 print myGithub
 ```
 ---
-### I need to pro
+### I wanna to pro
 `Vue.js`
-`PHP - Laravel`
+`google cloud`
+`Laravel`
 `Python`
 `Java`
 `C++`
