@@ -8,7 +8,7 @@ myGithub = "I want to learn"
 print myGithub
 ```
 ---
-### I wan't be to pro
+### I wan't to be pro
 `Vue.js`
 `google cloud`
 `Laravel`
