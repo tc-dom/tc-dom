@@ -9,17 +9,18 @@ print myGithub
 ```
 ---
 ### I wan't to be pro
-`Vue.js`
+`VueJs`
+`Angular`
+`NodeJs`
 `google cloud`
 `Laravel`
 `Python`
 `Java`
 `C++`
-`SQL`
-
-<p align='center'>
-   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=tc-dom.tc-dom"></a>
- </p>
+`C#`
+`MySQL`
+`PostgreSQL`
+`Firebase`
  
  
 <!--
