@@ -12,14 +12,15 @@ print myGithub
 `VueJs`
 `Angular`
 `NodeJs`
-`google cloud`
-`Laravel`
+`PHP Laravel`
 `Python`
+`Ruby`
 `Java`
 `C++`
 `C#`
 `MySQL`
 `PostgreSQL`
+`Google Cloud` &
 `Firebase`
  
  
