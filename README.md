@@ -1,27 +1,20 @@
 # Hello Moon 🌙
-> #### What is this page ?
-> This page for my little project such as design page with css bootstrap bulma or single css 
-> The most important is It's for me to learning abount fullstack fontend or backend
+> #### What is this page?  
+> This page showcases my small projects, including designing with CSS (Bootstrap, TailwindCSS, or even custom CSS).  
+> The main purpose of this page is to document my learning journey in full-stack development, covering both frontend and backend.  
 Quote break.
 ```python
 myGithub = "I'm Thammanoon. Developer mostly focused on front-end development."
 print myGithub
 ```
 ---
-### Language and resources
-`VueJs`
-`Angular`
-`NodeJs`
-`PHP Laravel`
-`Python`
-`Ruby`
-`Java`
-`C++`
-`C#`
-`MySQL`
-`PostgreSQL`
-`Google Cloud` &
-`Firebase`
+### Languages and Tools I Use  
+- **Frontend:** `VueJs`, `Angular`  
+- **Backend:** `NodeJs`, `PHP Laravel`, `Python`, `Ruby`  
+- **Other Languages:** `Java`, `C++`, `C#`  
+- **Databases:** `MySQL`, `PostgreSQL`  
+- **Cloud Services:** `Google Cloud`, `Firebase`
+
  
  
 <!--
