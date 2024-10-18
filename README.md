@@ -4,7 +4,7 @@
 > The main purpose of this page is to document my learning journey in full-stack development, covering both frontend and backend.  
 
 ```python
-myGithub = "I'm Thammanoon. Developer mostly focused on front-end development."
+myGithub = "I'm DOM. Developer mostly focused on front-end development."
 print myGithub
 ```
 ---
