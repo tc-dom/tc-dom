@@ -8,7 +8,9 @@ myGithub = "I'm DOM. Developer mostly focused on front-end development."
 print myGithub
 ```
 ---
-### Languages and Tools I Use 
+<details>
+<summary> Languages and Tools I Use </summary>
+  
 - **Frontend Frameworks:** `VueJs`, ❤️ `NuxtJs` , `React`, `NextJs`, `Angular`  
 - **Backend Frameworks:** `NodeJs`, `PHP Laravel`  
 - **Languages:** `Python`, `Ruby`, `C++`, `C#`, `Visual Basic`, `JavaScript`,`TypeScript`
@@ -16,7 +18,11 @@ print myGithub
 - **Cloud Services:** `Google Cloud`, `Vercel`, `Cloudflare`, `Cloudinary`
 - **Design & Styling:** Proficient in `HTML`, `CSS`, `SCSS`
 
-### Languages I'm Interested In  
+</details>
+
+
+
+###### Languages I'm Interested In  
 I'm very interested ⚡️ in learning more about `Java` and `Swift`. 
 
 ---
