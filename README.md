@@ -4,7 +4,7 @@
 > The most important is It's for me to learning abount fullstack fontend or backend
 Quote break.
 ```python
-myGithub = "I want to learn"
+myGithub = "I'm Thammanoon. Developer mostly focused on front-end development."
 print myGithub
 ```
 ---
