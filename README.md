@@ -1,6 +1,6 @@
 # Hello Moon 🌙
 > #### What is this page?
-> 🌐 [My Portfolio](https://portfolio-tcdoms-projects.vercel.app)  
+> 
 > This page showcases my small projects, including designing with CSS (Bootstrap, TailwindCSS, or even custom CSS).  
 > The main purpose of this page is to document my learning journey in full-stack development, covering both frontend and backend.  
 
