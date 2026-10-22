@@ -5,18 +5,18 @@
 > The main purpose of this page is to document my learning journey in full-stack development, covering both frontend and backend.  
 
 ```python
-myGithub = "I'm DOM. Developer mostly focused on front-end development."
-print myGithub
+myGithub = "I'm DOM. Developer mostly focused on fullstack development."
+print myGithub golang - microservices & rush desktop app
 ```
 ---
 <details>
 <summary> Languages and Tools I Use </summary>
   
 - **Frontend Frameworks:** `VueJs`, ❤️ `NuxtJs` , `React`, `NextJs`, `Angular`  
-- **Backend Frameworks:** `NodeJs`, `PHP Laravel`  
-- **Languages:** `Python`, `Ruby`, `C++`, `C#`, `Visual Basic`, `JavaScript`,`TypeScript`
-- **Databases:** `MySQL`, `PostgreSQL`, `Firebase`  
-- **Cloud Services:** `Google Cloud`, `Vercel`, `Cloudflare`, `Cloudinary`
+- **Backend Frameworks:** `NodeJs`, `PHP Laravel`, `Spring boot`  
+- **Languages:** `Python`, `Ruby`,`Rush`, `C++`, `C#`, `Visual Basic`, `JavaScript`,`TypeScript`
+- **Databases:** `MySQL & SQLlite`, `PostgreSQL`, `Firebase & MongoDB`  
+- **Cloud Services:** `Jenkins`,`Sonarqube`,`Google Cloud`, `Vercel`, `Cloudflare`, `Cloudinary`
 - **Design & Styling:** Proficient in `HTML`, `CSS`, `SCSS`
 
 </details>
@@ -24,7 +24,7 @@ print myGithub
 
 
 ###### Languages I'm Interested In  
-I'm very interested ⚡️ in learning more about `Java` and `Swift`. 
+I'm very interested ⚡️ in learning more about `Objective-c` and `Swift`. 
 
 ---
 ###### Design Philosophy 🌱
